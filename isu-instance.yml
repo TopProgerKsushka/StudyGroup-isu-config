@@ -1,0 +1,4 @@
+config:
+  group-service:
+    port: 8093
+
